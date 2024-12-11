@@ -1,4 +1,4 @@
-# EXP :3 Correlation and regression for data analysis
+# EXP 3 :Correlation and regression for data analysis
 ## DATE:26/10/2024
 
 
@@ -24,9 +24,11 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
+
+##### Developed by : VENKATA MOHAN N
+##### Register number : 24900969
+
 ```py
-Developed by : Priyanka.A
-Register number : 212222230113
 import numpy as np
 import math
 import matplotlib.pyplot as plt
